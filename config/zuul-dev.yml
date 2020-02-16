@@ -15,7 +15,9 @@ eureka:
 
 zuul:
   retryable: true
-  sensitive-headers: 
+
+
+#   sensitive-headers: 
 
 #  routes:
 #    item-service: /item-service/**
