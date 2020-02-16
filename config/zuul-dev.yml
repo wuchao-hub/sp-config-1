@@ -17,7 +17,6 @@ zuul:
   retryable: true
 
 
-#   sensitive-headers: 
 
 #  routes:
 #    item-service: /item-service/**
